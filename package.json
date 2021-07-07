@@ -1,6 +1,6 @@
 {
   "name": "html-validate-offline",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Html validate offline",
   "main": "./src/index.js",
   "private": false,
