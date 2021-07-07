@@ -1,0 +1,16 @@
+{
+  "name": "@adplata/html-validate-offline",
+  "version": "1.0.4",
+  "description": "Html validate offline",
+  "main": "./src/index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard"
+  },
+  "author": "adplata <adplata.bravo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^9.1.3"
+  }
+}
